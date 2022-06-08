@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krishna Agrawal
-- 👀 I’m interested in Product Management
-- 🌱 I’m currently learning Data Analytics and MBA
-- 💞️ I’m looking to collaborate on Machine learning and forecasting.
+- 👀 I’m interested in Product Management, Project Management and Strategy roles.
+- 🌱 I’m currently pursuing MBA and MS in Digital Technology at Boston University
+- 💞️ I’m looking to collaborate on Machine learning, forecasting, product management preparation.
 - 📫 You can mail me on agrawalkrishna91@gmail.com
 
 <!---
